@@ -10,7 +10,8 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg">
-  <img align="right"  height="30" width="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd4cTA2em5iczVsemcxbTJjaHhwdDI1MXNhc2JrdGNrdXlsbWVoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NpbAVDGdqJECKP33UN/giphy.gif">
+  <img align="right"  height="30" width="200"  
+ height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd4cTA2em5iczVsemcxbTJjaHhwdDI1MXNhc2JrdGNrdXlsbWVoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NpbAVDGdqJECKP33UN/giphy.gif">
 
 </div>
 
