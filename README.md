@@ -1,44 +1,66 @@
-## Olá, eu sou a Thayná Simões! 🌸
+## Olá, eu sou a Thayná Simões! 🌸  
 
-Sou estudante de Engenharia de Software, com experiência em desenvolvimento de sistemas, automação de processos e manipulação de dados.
+Sou estudante de **Engenharia de Software** e atualmente atuo como **Estagiária em Cloud & Automação**, com foco em organização de dados, automação de processos e eficiência operacional.  
 
-Tenho vivência prática com **Java, Spring Boot, SQL, Python e React**, atuando tanto na construção de APIs e aplicações quanto na organização, extração e estruturação de dados para apoio a processos internos e tomada de decisão.
+Tenho experiência com desenvolvimento de sistemas, manipulação de dados e criação de automações em **Python**, além de já ter atuado como **Desenvolvedora Full Stack**, trabalhando com **SQL, PHP e APIs integradas a banco de dados**.  
 
-Minha formação técnica em Administração complementa minha atuação em tecnologia, trazendo visão de negócio, organização de informações e atenção a indicadores.
+Gosto de estruturar informações, organizar processos e transformar dados em algo útil para tomada de decisão. Estou sempre aprofundando meus conhecimentos em **backend, dados e cloud**. 🚀  
 
-Aqui no GitHub você vai encontrar projetos voltados a:
-- Desenvolvimento backend e frontend  
-- Integração com bancos de dados  
-- Estruturação e organização de informações  
-- Automação de processos  
-- Boas práticas de código  
+Se quiser, fique à vontade para explorar meus projetos aqui no GitHub!  
+
+📫 **Contato:** thayna.pereira2402@gmail.com  
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+## 🚀 Atualmente focando em
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="right" height="150" width="150" src="https://i.imgur.com/nl6V5F0.png" />
+- Automação de processos com Python  
+- Manipulação e extração de dados com SQL  
+- Estruturação de APIs  
+- Organização de informações  
+- Análise e melhoria de processos com base em dados  
+
+---
+
+## 💻 Ferramentas e Tecnologias  
+
+<div align="left">
+
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python">
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL">
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP">
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker">
+<img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger">
+
 </div>
 
 ---
 
-## 🔗 Conecte-se comigo
+## 📊 Principais Competências  
 
-<div>
-  <a href="https://www.linkedin.com/in/thaynapsimoes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+- SQL e modelagem de dados  
+- Python para automação  
+- Estruturação e documentação de APIs  
+- Extração e manipulação de dados  
+- Git / GitHub  
+- Postman  
+- Swagger  
+- Jira  
 
 ---
 
-📫 **Contato:**  
-thayna.pereira2402@gmail.com
+## 🎓 Formação  
+
+- Engenharia de Software – FIAP (Cursando)  
+- Formação Full Stack Java – Generation Brasil  
+- Técnico em Administração – ETEC  
+
+---
+
+## 🌐 Conecte-se comigo  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaynapsimoes/)
