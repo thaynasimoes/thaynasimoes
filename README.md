@@ -1,6 +1,6 @@
 ## Olá, eu sou a Thayná Simões! 🌸
 
-Sou estudante de Engenharia de Software e desenvolvedora em início de carreira, com experiência em desenvolvimento de sistemas, automação de processos e manipulação de dados.
+Sou estudante de Engenharia de Software, com experiência em desenvolvimento de sistemas, automação de processos e manipulação de dados.
 
 Tenho vivência prática com **Java, Spring Boot, SQL, Python e React**, atuando tanto na construção de APIs e aplicações quanto na organização, extração e estruturação de dados para apoio a processos internos e tomada de decisão.
 
