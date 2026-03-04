@@ -1,15 +1,44 @@
 ## Olá, eu sou a Thayná Simões! 🌸
-Desenvolvedora fullstack júnior, sempre em busca de aprender mais e expandir meus conhecimentos em Java, Spring Boot, Docker, JavaScript, React, MySQL e tudo o que aparece de interessante. Sou apaixonada por tecnologia e estou sempre explorando novas ferramentas e técnicas! 
 
-Se quiserem, fiquem à vontade para dar uma olhada nos meus projetos aqui no GitHub. 😊
+Sou estudante de Engenharia de Software e desenvolvedora em início de carreira, com experiência em desenvolvimento de sistemas, automação de processos e manipulação de dados.
 
-📫 Contato: thayna.pereira2402@gmail.com
+Tenho vivência prática com **Java, Spring Boot, SQL, Python e React**, atuando tanto na construção de APIs e aplicações quanto na organização, extração e estruturação de dados para apoio a processos internos e tomada de decisão.
 
-## Ferramentas e Tecnologias
+Minha formação técnica em Administração complementa minha atuação em tecnologia, trazendo visão de negócio, organização de informações e atenção a indicadores.
 
-<div style="display: inline_block"><br> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="Java"> <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS"> <img align="right" height="150" width="150" src="https://i.imgur.com/nl6V5F0.png" alt="Coding GIF"> </div>
+Aqui no GitHub você vai encontrar projetos voltados a:
+- Desenvolvimento backend e frontend  
+- Integração com bancos de dados  
+- Estruturação e organização de informações  
+- Automação de processos  
+- Boas práticas de código  
 
+---
 
-## Conecte-se comigo
+## 🛠️ Ferramentas e Tecnologias
 
-<div> <a href="https://www.linkedin.com/in/thaynapsimoes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="right" height="150" width="150" src="https://i.imgur.com/nl6V5F0.png" />
+</div>
+
+---
+
+## 🔗 Conecte-se comigo
+
+<div>
+  <a href="https://www.linkedin.com/in/thaynapsimoes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+---
+
+📫 **Contato:**  
+thayna.pereira2402@gmail.com
